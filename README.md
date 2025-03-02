@@ -8,8 +8,11 @@ This WordPress plugin adds custom authentication for the REST API, allowing acce
 - Uses WordPress built-in login functionality to verify user access.
 
 ## Installation
-1. Download and install the plugin through the WordPress admin dashboard.
-2. Activate the plugin.
+1. Download the plugin ZIP file from the [Releases Page](https://github.com/ali98ir/secure-wp-rest-api/releases).
+2. Go to your WordPress admin dashboard.
+3. Navigate to **Plugins** > **Add New** > **Upload Plugin**.
+4. Upload the downloaded ZIP file.
+5. Install and activate the plugin.
 
 ## Usage
 This plugin works automatically to authenticate users based on the login session or Basic Auth. Ensure that the user is either an Administrator or Editor to access the API.
