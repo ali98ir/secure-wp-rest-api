@@ -1,4 +1,4 @@
-# Secure WP Rest API
+# Secure WP REST API
 
 This WordPress plugin adds custom authentication for the REST API, allowing access only to authorized users. The plugin supports both Basic Auth and WordPress login session for authentication. 
 
