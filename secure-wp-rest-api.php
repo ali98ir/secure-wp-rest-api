@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Secure WP Rest API
  * Description: Adds custom authentication for the REST API using Basic Auth or WordPress login session, ensuring that only authorized users (Administrator or Editor) can access the API.
- * Version: 1.1
+ * Version: 1.0.0
  * Requires at least: 4.7
  * Tested up to: 6.2
  * Author: Ali Iranpour
